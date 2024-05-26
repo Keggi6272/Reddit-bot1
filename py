@@ -3,10 +3,10 @@ import re
 
 # Define your bot's credentials
 reddit = praw.Reddit(
-    client_id='YOUR_CLIENT_ID',
-    client_secret='YOUR_CLIENT_SECRET',
-    username='YOUR_REDDIT_USERNAME',
-    password='YOUR_REDDIT_PASSWORD',
+    client_id='YrIoQG2rUM3rwJ1UnHLiZQ',
+    client_secret='9pu08oq10kvyHUJzqE75x1UdjxCSGw',
+    username='Messiahofmorons',
+    password='Xiao*2212',
     user_agent='Reddit Bot to Answer Questions with LMGTFY links'
 )
 
